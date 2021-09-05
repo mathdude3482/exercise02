@@ -11,6 +11,12 @@ public class Solution02 {
      *  Copyright 2021 James Jaro
      */
 public static void main(String[] args){
+    /*
+    ask user for input
+    take in input
+    count the amount of characters in the string
+    print out how many characters the string has.
+     */
     //ask what the input is
     Scanner input = new Scanner(System.in);
     System.out.print("What is the input string?");
